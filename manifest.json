@@ -1,0 +1,23 @@
+{
+  "name": "FlowSpace: Speech Practice",
+  "short_name": "FlowSpace",
+  "description": "Speech practice with paragraphs built around your sounds, drills, free talk, and real-world missions. Everything stays on your device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F4EF",
+  "theme_color": "#17624F",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
